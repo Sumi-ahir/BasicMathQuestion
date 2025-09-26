@@ -33,3 +33,4 @@ function armstrongNo(n){
 }console.log(armstrongNo(123));
 console.log(armstrongNo(153)); 
 console.log(armstrongNo(9474));
+
