@@ -10,3 +10,4 @@ function palinNo(num){
 }console.log(palinNo(121));
 console.log(palinNo(211));
 console.log(palinNo(191));
+
